@@ -113,7 +113,7 @@ This document describes how to setup a mantle-1 chain node.
   --details="<details for your validator" \
   --security-contact="<your email goes here>" \
   --website="<your website>" \
-  --identity="<keybase identity>" \
+  --identity="<keybase identity>"
   ```
 
 ### Submit PR
